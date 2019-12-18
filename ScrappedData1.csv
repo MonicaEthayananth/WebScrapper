@@ -1,0 +1,22 @@
+Container,Last Activity,Location,Loaction2,Date,Vessel/Voyage,Bol#
+TRHU3373898 , Empty container returned from Customer, SAVANNAH (GA), U.S.A., 03-Dec-2018, ,ZIMUSNH7160462
+ZIMU3004858 , Empty container returned from Customer, SAVANNAH (GA), U.S.A., 04-Dec-2018, ,ZIMUSNH7160463
+ZIMU1340262 , Empty container returned from Customer, SAVANNAH (GA), U.S.A., 04-Dec-2018, ,ZIMUSNH7160464
+TRHU3373898 , Empty container dispatched from inland point to Customer, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 20-Oct-2018 01:59, ,ZIMUSNH7160465
+TRHU3373899, Export Gate-In to Port of Loading , SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 21-Oct-2018 01:48,  ZIM CHICAGO/49    ,ZIMUSNH7160466
+TRHU3373900, Container was loaded at Port of Loading to Port of Discharge, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 27-Oct-2018 01:00,  ZIM CHICAGO/49    ,ZIMUSNH7160467
+TRHU3373901, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 22-Nov-2018 02:48,  ZIM CHICAGO/49    ,ZIMUSNH7160468
+TRHU3373902, Container is available to be released / delivered, SAVANNAH (GA), U.S.A., 22-Nov-2018 11:23, ,ZIMUSNH7160469
+TRHU3373903, Import truck departure from Port of Discharge to Customer, SAVANNAH (GA), U.S.A., 29-Nov-2018 09:42,  ZIM CHICAGO/49    ,ZIMUSNH7160470
+ZIMU3004858 , Empty container dispatched from inland point to Customer, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 20-Oct-2018 00:23, ,ZIMUSNH7160471
+ZIMU3004859, Export Gate-In to Port of Loading , SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 20-Oct-2018 19:33,  ZIM CHICAGO/49    ,ZIMUSNH7160472
+ZIMU3004860, Container was loaded at Port of Loading to Port of Discharge, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 27-Oct-2018 01:00,  ZIM CHICAGO/49    ,ZIMUSNH7160473
+ZIMU3004861, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 21-Nov-2018 23:42,  ZIM CHICAGO/49    ,ZIMUSNH7160474
+ZIMU3004862, Container is available to be released / delivered, SAVANNAH (GA), U.S.A., 22-Nov-2018 08:08, ,ZIMUSNH7160475
+ZIMU3004863, Import truck departure from Port of Discharge to Customer, SAVANNAH (GA), U.S.A., 29-Nov-2018 10:25,  ZIM CHICAGO/49    ,ZIMUSNH7160476
+ZIMU1340262 , Empty container dispatched from inland point to Customer, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 20-Oct-2018 00:23, ,ZIMUSNH7160477
+ZIMU1340263, Export Gate-In to Port of Loading , SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 20-Oct-2018 19:33,  ZIM CHICAGO/49    ,ZIMUSNH7160478
+ZIMU1340264, Container was loaded at Port of Loading to Port of Discharge, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 27-Oct-2018 01:00,  ZIM CHICAGO/49    ,ZIMUSNH7160479
+ZIMU1340265, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 21-Nov-2018 23:38,  ZIM CHICAGO/49    ,ZIMUSNH7160480
+ZIMU1340266, Container is available to be released / delivered, SAVANNAH (GA), U.S.A., 22-Nov-2018 08:08, ,ZIMUSNH7160481
+ZIMU1340267, Import truck departure from Port of Discharge to Customer, SAVANNAH (GA), U.S.A., 29-Nov-2018 10:08,  ZIM CHICAGO/49    ,ZIMUSNH7160482

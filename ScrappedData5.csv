@@ -1,0 +1,61 @@
+Container,Last Activity,Location,Loaction2,Date,Vessel/Voyage,Bol#
+ZCSU8356810 HC40 , Empty container returned from Customer, ATLANTA (GA), U.S.A., 18-Dec-2018, ,ZIMUSEL200190230
+ZCSU8864616 HC40 , Empty container returned from Customer, ATLANTA (GA), U.S.A., 13-Dec-2018, ,ZIMUSEL200190231
+ZCSU8973767 HC40 , Empty container returned from Customer, ATLANTA (GA), U.S.A., 12-Dec-2018, ,ZIMUSEL200190232
+ZCSU8987863 HC40 , Direct move from Import to Export (Im), ATLANTA (GA), U.S.A., 06-Dec-2018, BILBAO BRIDGE/151   ,ZIMUSEL200190233
+ZCSU8890960 HC40 , Direct move from Import to Export (Im), ATLANTA (GA), U.S.A., 06-Dec-2018, BILBAO BRIDGE/151   ,ZIMUSEL200190234
+TEMU6796014 HC40 , Empty container returned from Customer, ATLANTA (GA), U.S.A., 12-Dec-2018, ,ZIMUSEL200190235
+ZCSU8356810 HC40 , Empty container dispatched from inland point to Customer, PUSAN, KOREA. REPUBLIC OF, 18-Oct-2018 13:11,  MAERSK TAIKUNG/1     ,ZIMUSEL200190236
+ZCSU8356810 HC41, Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 18-Oct-2018 22:13,  MAERSK TAIKUNG/1     ,ZIMUSEL200190237
+ZCSU8356810 HC42, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 01-Nov-2018 17:10,  MAERSK SEMARANG/3     ,ZIMUSEL200190238
+ZCSU8356810 HC43, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 28-Nov-2018 09:10,  MAERSK SEMARANG/3     ,ZIMUSEL200190239
+ZCSU8356810 HC44, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 28-Nov-2018 16:33,  MAERSK SEMARANG/3     ,ZIMUSEL200190240
+ZCSU8356810 HC45, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 01-Dec-2018 07:05,  MAERSK SEMARANG/3     ,ZIMUSEL200190241
+ZCSU8356810 HC46, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 01-Dec-2018 16:27, ,ZIMUSEL200190242
+ZCSU8356810 HC47, Transshipment or Transit Gate-Out, ATLANTA (GA), U.S.A., 02-Dec-2018 06:00, ,ZIMUSEL200190243
+ZCSU8356810 HC48, Import Gate-In to inland point, ATLANTA (GA), U.S.A., 09-Dec-2018 06:00, ,ZIMUSEL200190244
+ZCSU8356810 HC49, Import Gate-Out from inland point to Customer, ATLANTA (GA), U.S.A., 10-Dec-2018 23:00, ,ZIMUSEL200190245
+ZCSU8864616 HC40 , Empty container dispatched from inland point to Customer, SEOUL, KOREA. REPUBLIC OF, 19-Oct-2018 13:01,  MAERSK TAIKUNG/1     ,ZIMUSEL200190246
+ZCSU8864616 HC41, Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 19-Oct-2018 21:12,  MAERSK TAIKUNG/1     ,ZIMUSEL200190247
+ZCSU8864616 HC42, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 01-Nov-2018 17:25,  MAERSK SEMARANG/3     ,ZIMUSEL200190248
+ZCSU8864616 HC43, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 28-Nov-2018 08:45,  MAERSK SEMARANG/3     ,ZIMUSEL200190249
+ZCSU8864616 HC44, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 28-Nov-2018 16:33,  MAERSK SEMARANG/3     ,ZIMUSEL200190250
+ZCSU8864616 HC45, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 01-Dec-2018 07:05,  MAERSK SEMARANG/3     ,ZIMUSEL200190251
+ZCSU8864616 HC46, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 01-Dec-2018 16:27, ,ZIMUSEL200190252
+ZCSU8864616 HC47, Transshipment or Transit Gate-Out, ATLANTA (GA), U.S.A., 02-Dec-2018 06:00, ,ZIMUSEL200190253
+ZCSU8864616 HC48, Transshipment or Transit Gate-In, ATLANTA (GA), U.S.A., 10-Dec-2018 06:00, ,ZIMUSEL200190254
+ZCSU8864616 HC49, Import Gate-Out from inland point to Customer, ATLANTA (GA), U.S.A., 11-Dec-2018 22:00, ,ZIMUSEL200190255
+ZCSU8973767 HC40 , Empty container dispatched from inland point to Customer, SEOUL, KOREA. REPUBLIC OF, 20-Oct-2018 09:46,  MAERSK TAIKUNG/1     ,ZIMUSEL200190256
+ZCSU8973767 HC41, Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 20-Oct-2018 20:43,  MAERSK TAIKUNG/1     ,ZIMUSEL200190257
+ZCSU8973767 HC42, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 02-Nov-2018 04:18,  MAERSK SEMARANG/3     ,ZIMUSEL200190258
+ZCSU8973767 HC43, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 27-Nov-2018 08:08,  MAERSK SEMARANG/3     ,ZIMUSEL200190259
+ZCSU8973767 HC44, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 27-Nov-2018 21:50,  MAERSK SEMARANG/3     ,ZIMUSEL200190260
+ZCSU8973767 HC45, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 01-Dec-2018 07:05,  MAERSK SEMARANG/3     ,ZIMUSEL200190261
+ZCSU8973767 HC46, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 01-Dec-2018 16:27, ,ZIMUSEL200190262
+ZCSU8973767 HC47, Transshipment or Transit Gate-Out, ATLANTA (GA), U.S.A., 02-Dec-2018 06:00, ,ZIMUSEL200190263
+ZCSU8973767 HC48, Transshipment or Transit Gate-In, ATLANTA (GA), U.S.A., 10-Dec-2018 06:00, ,ZIMUSEL200190264
+ZCSU8973767 HC49, Import Gate-Out from inland point to Customer, ATLANTA (GA), U.S.A., 11-Dec-2018 22:00, ,ZIMUSEL200190265
+ZCSU8973767 HC50, Empty container dispatched from inland point to Customer, SEOUL, KOREA. REPUBLIC OF, 20-Oct-2018 09:46,  MAERSK TAIKUNG/1     ,ZIMUSEL200190266
+ZCSU8987863 HC40 , Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 20-Oct-2018 21:42,  MAERSK TAIKUNG/1     ,ZIMUSEL200190267
+ZCSU8987863 HC41, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 01-Nov-2018 23:14,  MAERSK SEMARANG/3     ,ZIMUSEL200190268
+ZCSU8987863 HC42, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 27-Nov-2018 17:32,  MAERSK SEMARANG/3     ,ZIMUSEL200190269
+ZCSU8987863 HC43, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 29-Nov-2018 02:20,  MAERSK SEMARANG/3     ,ZIMUSEL200190270
+ZCSU8987863 HC44, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 30-Nov-2018 02:52,  MAERSK SEMARANG/3     ,ZIMUSEL200190271
+ZCSU8987863 HC45, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 30-Nov-2018 12:01, ,ZIMUSEL200190272
+ZCSU8890960 HC40 , Import truck departure from inland point to Customer, ATLANTA (GA), U.S.A., 04-Dec-2018 11:03,  MAERSK SEMARANG/3     ,ZIMUSEL200190273
+ZCSU8890960 HC41, Empty container dispatched from inland point to Customer, SEOUL, KOREA. REPUBLIC OF, 19-Oct-2018 13:01,  MAERSK TAIKUNG/1     ,ZIMUSEL200190274
+ZCSU8890960 HC42, Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 19-Oct-2018 22:14,  MAERSK TAIKUNG/1     ,ZIMUSEL200190275
+ZCSU8890960 HC43, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 01-Nov-2018 22:28,  MAERSK SEMARANG/3     ,ZIMUSEL200190276
+ZCSU8890960 HC44, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 27-Nov-2018 16:58,  MAERSK SEMARANG/3     ,ZIMUSEL200190277
+ZCSU8890960 HC45, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 29-Nov-2018 02:20,  MAERSK SEMARANG/3     ,ZIMUSEL200190278
+ZCSU8890960 HC46, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 30-Nov-2018 02:52,  MAERSK SEMARANG/3     ,ZIMUSEL200190279
+ZCSU8890960 HC47, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 30-Nov-2018 12:01, ,ZIMUSEL200190280
+ZCSU8890960 HC48, Import truck departure from inland point to Customer, ATLANTA (GA), U.S.A., 04-Dec-2018 00:43,  MAERSK SEMARANG/3     ,ZIMUSEL200190281
+TEMU6796014 HC33, Empty container dispatched from inland point to Customer, SEOUL, KOREA. REPUBLIC OF, 18-Oct-2018 13:11,  MAERSK TAIKUNG/1     ,ZIMUSEL200190282
+TEMU6796014 HC34, Export Gate-In to Port of Loading , PUSAN, KOREA. REPUBLIC OF, 18-Oct-2018 23:31,  MAERSK TAIKUNG/1     ,ZIMUSEL200190283
+TEMU6796014 HC35, Container was loaded at Port of Loading to Port of Discharge, PUSAN, KOREA. REPUBLIC OF, 01-Nov-2018 17:07,  MAERSK SEMARANG/3     ,ZIMUSEL200190284
+TEMU6796014 HC36, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 28-Nov-2018 09:14,  MAERSK SEMARANG/3     ,ZIMUSEL200190285
+TEMU6796014 HC37, Import rail departure from Port of Discharge to intermediate place, SAVANNAH (GA), U.S.A., 28-Nov-2018 16:33,  MAERSK SEMARANG/3     ,ZIMUSEL200190286
+TEMU6796014 HC38, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 01-Dec-2018 07:05,  MAERSK SEMARANG/3     ,ZIMUSEL200190287
+TEMU6796014 HC39, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 01-Dec-2018 16:27, ,ZIMUSEL200190288
+TEMU6796014 HC40 , Import truck departure from inland point to Customer, ATLANTA (GA), U.S.A., 11-Dec-2018 05:54,  MAERSK SEMARANG/3     ,ZIMUSEL200190289

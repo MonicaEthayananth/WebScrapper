@@ -1,0 +1,10 @@
+Container,Last Activity,Location,Loaction2,Date,Vessel/Voyage,Bol#
+TGHU5214656 DV40 , Empty container returned from Customer, ATLANTA (GA), U.S.A., 12-Dec-2018, ,ZIMUSNH20097314
+TGHU5214656 DV41, Empty container dispatched from Port of Loading to Customer, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 28-Oct-2018 04:47, ,ZIMUSNH20097315
+TGHU5214656 DV42, Export Gate-In to Port of Loading , SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 29-Oct-2018 03:29,  PARSIFAL/8     ,ZIMUSNH20097316
+TGHU5214656 DV43, Container was loaded at Port of Loading to Port of Discharge, SHANGHAI (SH), CHINA. PEOPLE'S REPUBLIC, 02-Nov-2018 20:00,  PARSIFAL/8     ,ZIMUSNH20097317
+TGHU5214656 DV44, Container was discharged at Port of Destination, SAVANNAH (GA), U.S.A., 28-Nov-2018 20:49,  PARSIFAL/8     ,ZIMUSNH20097318
+TGHU5214656 DV45, Import rail departure from Port of Discharge to intermediate point, SAVANNAH (GA), U.S.A., 30-Nov-2018 11:20,  PARSIFAL/8     ,ZIMUSNH20097319
+TGHU5214656 DV46, Import rail arrival at intermediate point, ATLANTA (GA), U.S.A., 02-Dec-2018 02:24,  PARSIFAL/8     ,ZIMUSNH20097320
+TGHU5214656 DV47, Container is available to be released / delivered, ATLANTA (GA), U.S.A., 02-Dec-2018 11:18, ,ZIMUSNH20097321
+TGHU5214656 DV48, Import truck departure from inland point to Customer, ATLANTA (GA), U.S.A., 05-Dec-2018 15:54,  PARSIFAL/8     ,ZIMUSNH20097322
